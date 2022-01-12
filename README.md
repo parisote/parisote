@@ -7,4 +7,4 @@ Sr. Backend developer in Java and C++.
 - ⛰️ Love Nature, climbing and read.
 
 ## In this github you will find code in technologies that i'm studying.
-- 🌱 Currently learning about blockchain and web3 and a little DS.
+- 🌱 Currently learning about blockchain, web3 and a little DS.
