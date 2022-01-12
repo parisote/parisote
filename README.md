@@ -1,7 +1,7 @@
 ## Hi everybody 👋 I'm Tomas Climente
 Sr. Backend developer in Java and C++.
 
-## I'm Developer and Student.
+## I'm Developer and Constant student.
 - 🔭 I’m currently working @ [Proyecto Angel](https://https://proyectoangel.net/).
 - 💻 I’m currently working with Java, C++, Python and more.
 - ⛰️ Love Nature, climbing and read.
