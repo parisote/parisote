@@ -1,5 +1,5 @@
 ## Hi everybody 👋 I'm Tomas Climente
-Sr. Backend developer in Java and C++.
+I'm Software Engineer
 
 ## I'm Developer and Blockchain enthusiast.
 - 🔭 I’m currently working @ [Proyecto Angel](https://proyectoangel.net/).
@@ -7,4 +7,4 @@ Sr. Backend developer in Java and C++.
 - ⛰️ Love Nature, climbing and read.
 
 ## In this github you will find code in technologies that i'm studying.
-- 🌱 Currently learning about blockchain, web3 and a little DS.
+- 🌱 Currently learning about blockchain, web3 and some frameworks.
