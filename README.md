@@ -2,7 +2,7 @@
 I'm Software Engineer
 
 ## I'm Developer and Blockchain enthusiast.
-- 🔭 I’m currently working @ [Proyecto Angel](https://proyectoangel.net/).
+- 🔭 I’m currently working @ ???.
 - 💻 I’m currently working with Java, C++, Python and more.
 - ⛰️ Love Nature, climbing and read.
 
