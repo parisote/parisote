@@ -2,8 +2,8 @@
 I'm Software Engineer
 
 ## I'm Developer and Blockchain enthusiast.
-- 🔭 I’m currently working @ ???.
-- 💻 I’m currently working with Java, C++, Python and more.
+- 🔭 I’m currently working @ [MercadoLibre](https://www.mercadolibre.com.ar)
+- 💻 I’m currently working with Java, C++, Python, Go, Groovy and more.
 - ⛰️ Love Nature, climbing and read.
 
 ## In this github you will find code in technologies that i'm studying.
