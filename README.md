@@ -2,7 +2,7 @@
 I'm Software Engineer
 
 ## I'm Developer and Blockchain enthusiast.
-- 🔭 I’m currently working @ [MercadoLibre](https://www.mercadolibre.com.ar)
+- 🔭 I’m currently working @ KAVAK
 - 💻 I’m currently working with Java, Go, Groovy, Nodejs, C++, Python and more.
 - ⛰️ Love Nature, climbing and read.
 
