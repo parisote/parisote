@@ -7,4 +7,4 @@ I'm Software Engineer
 - ⛰️ Love Nature, climbing and read.
 
 ## In this github you will find code in technologies that i'm studying.
-- 🌱 Currently learning about blockchain, web3 and some frameworks.
+- 🌱 Currently learning about GenAI, blockchain and web3.
